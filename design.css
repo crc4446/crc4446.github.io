@@ -5,7 +5,7 @@ html{
 
 @font-face {
     font-family: 'myfont';
-    src: url(./font/babyblocks.ttf);
+    src: url(./font/babyblocks.woff);
 }
 
 .flexbox-container{
