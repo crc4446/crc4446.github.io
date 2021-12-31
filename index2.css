@@ -100,13 +100,14 @@ body, html {
       flex-direction: row;
       align-items: center;
       justify-content: center;
-      width: 60%;
+      width: 100%;
       margin-top: 20vh;
       margin-bottom: 20vh;
 
   }
 
   .Text{
+      width: 400px;
       padding-left: 100px;
       position: relative;
       overflow: hidden;
