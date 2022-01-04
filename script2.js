@@ -66,5 +66,5 @@ $("#contactBtn").click(function(){
 
 $("sendBtn").click(function(){
   alert("Success! Thank you for taking the time to write me and explore my portfolio website.");
-})
+});
   
