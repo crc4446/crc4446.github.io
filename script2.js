@@ -64,7 +64,9 @@ $("#contactBtn").click(function(){
   return false;
 });
 
-$("sendBtn").click(function(){
-  alert("Success! Thank you for taking the time to write me and explore my portfolio website.");
+$(document).ready(function() {
+    $("#sendBtn").click(function(){
+        alert("Success! Thank you for taking the time to explore my portfolio website and write me.");
+    }); 
 });
   
